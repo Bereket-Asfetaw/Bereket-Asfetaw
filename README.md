@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bereket-Asfetaw
-- 👀 I’m interested in ... making mangment system with php and python
-- 🌱 I’m currently learning ... python on Havard universty
+- 👋 Hi, I’m Bereket-Asfetaw i am full stack 
+- 👀 I’m interested in ... making website with javascript frame workes and python django and flask
+- 🌱 I’m currently learning ... python on Havard universty and flutter and java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
